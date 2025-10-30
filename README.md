@@ -106,9 +106,6 @@ I am a Developer, Machine Learning Enthusiast, Innovation Advocate, and passiona
 
 
 
-## Skills
-- **Python**, **C++**, **AWS**, **MySQL**, **PostgreSQL**, **HTML**, **CSS**, **Bootstrap**, **Git**, **GitHub**, **JavaScript**, **Machine Learning**, **Deep Learning**, **LangChain**, **LLM**, **NLP**, **Chatbot**, **Docker**, **EC2**, **Terraform**, **S3**, **Jenkins**, **Ubuntu**
-
 
 ## Tech Stack
 
