@@ -30,7 +30,7 @@ I am a Machine Learning Enthusiast, Innovation Advocate, and passionate about bu
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/nx/find-work/best-matches)
 
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s</h2>
+<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s:</h2>
 <table align="center">
   <tr>
     <td align="center" width="90">
