@@ -15,8 +15,7 @@ I am a Developer, Machine Learning Enthusiast, Innovation Advocate, and passiona
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allyan-younis-471231278/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/nx/find-work/best-matches)
-
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s</h2>
+Skills:
 <table align="center">
   <tr>
     <td align="center" width="90">
