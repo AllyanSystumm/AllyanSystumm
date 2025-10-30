@@ -139,6 +139,7 @@ I am a Developer, Machine Learning Enthusiast, Innovation Advocate, and passiona
 
 
 
+<div align="left">
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
 @@       | |                                           @@
@@ -148,7 +149,7 @@ I am a Developer, Machine Learning Enthusiast, Innovation Advocate, and passiona
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (progress = automate() ) ) |     @@
+@@   / /     \ \    | while ( ! (progress = automate() ) )|     @@
 @@   \ |  ,  | /    '----------------------------'     @@
 @@    \|=====|/                                        @@
 @@     |_.^._|                                         @@
@@ -158,3 +159,5 @@ I am a Developer, Machine Learning Enthusiast, Innovation Advocate, and passiona
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+</div>
+
