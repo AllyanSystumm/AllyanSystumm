@@ -22,7 +22,7 @@ I am a Machine Learning Enthusiast, Innovation Advocate, and passionate about bu
 
 🤖 I design AI systems, chatbots, and intelligent agents that learn, adapt, and evolve—bringing ideas to life through automation and intelligence.
 
-## 🌐 Socials:
+<h2 font-weight="bold">🌐 Socials:</h2>## 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allyan-younis-471231278/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/nx/find-work/best-matches)
