@@ -11,7 +11,7 @@ I am a Developer, Machine Learning Enthusiast, Innovation Advocate, and passiona
 🔧 From debugging 🛠️ to deployment 🚢, I'm all in.
 
 
-<h2 font-weight="bold">Socials</h2>
+<h2 font-weight="bold">🌐 Socials</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allyan-younis-471231278/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/nx/find-work/best-matches)
@@ -109,7 +109,7 @@ I am a Developer, Machine Learning Enthusiast, Innovation Advocate, and passiona
 
 ## Tech Stack
 
-## Tech Stack
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
