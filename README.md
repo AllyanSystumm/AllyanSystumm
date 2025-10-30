@@ -1,6 +1,6 @@
 🚀 Hello, I'm Allyan Younis 👋
 
-I am a Developer, Machine Learning Enthusiast, Innovation Advocate, and passionate about Chatbots and AI Agents.
+I am a Machine Learning Enthusiast, Innovation Advocate, and passionate about building Chatbots and AI Agents.
 
 ❤️ Machine learning, AI, chatbots, and intelligent agents aren't just fields—it's my passion and lifestyle.
 
