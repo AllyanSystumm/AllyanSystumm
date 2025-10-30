@@ -17,178 +17,92 @@ I am a Developer, Machine Learning Enthusiast, Innovation Advocate, and passiona
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/nx/find-work/best-matches)
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s</h2>
-<!-- <img src="skill.png"> -->
 <table align="center">
   <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
-      <br>Redux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
-      <br>Gatsby
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-      <br>Nuxt.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
-      <br>Nest.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
-      <br>Svelte
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-      <br>WordPress
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
-      <br>PHP
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
-    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-      <br>Django
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" width="55" height="55" />
+      <br>FastAPI
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
-      <br>RestAPI
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />
-      <br>D3.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-      <br>MaterialUI
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
-      <br>HTML
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
-      <br>Sass
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=babel" width="45" height="45" alt="babel" />
-      <br>Babel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" width="55" height="55" />
       <br>MySQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+      <br>HTML
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
-      <br>SQLite
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
+      <br>CSS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-      <br>Flutter
+      <img src="https://img.shields.io/badge/JavaScript-FF9900?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" width="55" height="55" />
+      <br>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat-square&logo=python&logoColor=white" alt="Machine Learning" width="55" height="55" />
+      <br>Machine Learning
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-      <br>Android
+      <img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=flat-square&logo=python&logoColor=white" alt="Deep Learning" width="55" height="55" />
+      <br>Deep Learning
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
-      <br>Java
+      <img src="https://img.shields.io/badge/LangChain-6200EA?style=flat-square&logo=python&logoColor=white" alt="LangChain" width="55" height="55" />
+      <br>LangChain
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C#
+      <img src="https://img.shields.io/badge/NLP-008C8C?style=flat-square&logo=python&logoColor=white" alt="NLP" width="55" height="55" />
+      <br>NLP
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C++
+      <img src="https://huggingface.co/favicon.ico" alt="Hugging Face" width="55" height="55" />
+      <br>Hugging Face
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Ollama-00C4B3?style=flat-square&logo=python&logoColor=white" alt="Ollama" width="55" height="55" />
+      <br>Ollama
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/LLM-6200EA?style=flat-square&logo=python&logoColor=white" alt="LLM" width="55" height="55" />
+      <br>LLM
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Chatbot-00C4B3?style=flat-square&logo=python&logoColor=white" alt="Chatbot" width="55" height="55" />
+      <br>Chatbot
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Agent-009688?style=flat-square&logo=python&logoColor=white" alt="Agent" width="55" height="55" />
+      <br>Agent
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" width="55" height="55" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="EC2" width="55" height="55" />
+      <br>EC2
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-aws&logoColor=white" alt="S3" width="55" height="55" />
+      <br>S3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" width="55" height="55" />
+      <br>Terraform
     </td>
   </tr>
 </table>
-<br/>
 
 
 
