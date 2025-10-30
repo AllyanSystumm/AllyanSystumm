@@ -10,6 +10,13 @@ I am a Developer, Machine Learning Enthusiast, Innovation Advocate, and passiona
 🌟 Striving to create solutions that make a difference ✨.
 🔧 From debugging 🛠️ to deployment 🚢, I'm all in.
 
+
+🌐 Socials:
+
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com](https://www.linkedin.com/in/allyan-younis-471231278/))
+
+
+
 ## Skills
 - **Python**, **C++**, **AWS**, **MySQL**, **PostgreSQL**, **HTML**, **CSS**, **Bootstrap**, **Git**, **GitHub**, **JavaScript**, **Machine Learning**, **Deep Learning**, **LangChain**, **LLM**, **NLP**, **Chatbot**, **Docker**, **EC2**, **Terraform**, **S3**, **Jenkins**, **Ubuntu**
 
