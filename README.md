@@ -137,6 +137,7 @@ I am a Developer, Machine Learning Enthusiast, Innovation Advocate, and passiona
 
 
 <div align="left">
+<pre>
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
 @@       | |                                           @@
@@ -156,5 +157,5 @@ I am a Developer, Machine Learning Enthusiast, Innovation Advocate, and passiona
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+</pre>
 </div>
-
