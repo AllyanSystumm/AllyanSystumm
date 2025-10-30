@@ -16,6 +16,22 @@ I am a Developer, Machine Learning Enthusiast, Innovation Advocate, and passiona
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allyan-younis-471231278/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/nx/find-work/best-matches)
 
+## Skills:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF9900?style=flat-square&logo=javascript&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat-square&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-6200EA?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-008C8C?style=flat-square&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F61?style=flat-square&logo=huggingface&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-00C4B3?style=flat-square&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-6200EA?style=flat-square&logo=python&logoColor=white)
+![Chatbot](https://img.shields.io/badge/Chatbot-00C4B3?style=flat-square&logo=python&logoColor=white)
+![Agent](https://img.shields.io/badge/Agent-009688?style=flat-square&logo=python&logoColor=white)
 
 
 
