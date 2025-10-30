@@ -107,7 +107,7 @@ I am a Developer, Machine Learning Enthusiast, Innovation Advocate, and passiona
 
 
 
-## Tech Stack
+<h2 font-weight="bold">💻 Tech Stack:</h2>
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
